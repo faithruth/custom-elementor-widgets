@@ -1,0 +1,150 @@
+h1, h2, h3, h4, h5, h6, p, a, div, body {
+    font-family: "Nanum Gothic", sans-serif;
+}
+.slick-arrow{
+    display: none !important;
+}
+.recent-post-image-wrapper {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 206px;
+}
+h6.uap-post-title {
+    color: #0a0a26;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 5px;
+}
+
+.partner-logo-wrapper {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin:0 20px;
+}
+.uap-team-member {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px;
+    margin: 15px 0;
+}
+p.names {
+    font-size: 18px;
+    font-weight: 600;
+    color: #0a0a26;
+}
+.uap-post-content {
+    padding: 10px 0;
+}
+.uap-pagination {
+    width: 100%;
+    text-align: right;
+    margin-left: auto;
+    margin-right: 0;
+}
+.uap-pagination a {
+    color: #fff;
+    background: #0a0a26;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+}
+.uap-pagination a:hover, .uap-pagination a:active, .uap-pagination a.uap-active {
+    color: #fff;
+    background: #021A52;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+}
+.uap-banner-slider{
+    display: none;
+}
+.uap-banner-slider.slick-initialized.slick-slider {
+    padding: 10px 0 6px;
+    margin-bottom: 0;
+}
+.text-wrapper p.welcomePrompt {
+    margin: 15px 0 0;
+    font-size: 16px;
+    color: #fff;
+}
+.uap-banner-slider .slick-slide img {
+    width: 100%;
+    height: 321px;
+}
+.btn.btn-blue-overlay {
+    background: rgba(0, 0, 0, 0.3);
+    border: none;
+    color: #fff;
+}
+.btn.btn-bold {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.btn.btn-pad {
+    padding: 15px 25px;
+}
+.btn {
+    border-radius: 0;
+    white-space: normal;
+}
+.text-wrapper h3 {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+.uap-banner-slider .slick-dots {
+    bottom: 10px;
+    text-align: right;
+}
+.uap-banner-slider .slick-dots li button,
+.uap-banner-slider .slick-dots li button:before {
+    border-radius: 25px;
+    background-color: #ccc;
+    color: #ccc;
+}
+p.title {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #021A52;
+}
+.recent-post-entry {
+    margin: 20px 0;
+}
+.details {
+    text-align: center;
+    padding: 10px;
+}
+h2.banner-title {
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+}
+p.banner-description {
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+}
+.partner-description {
+    padding: 25px 30px;
+}
+.meta {
+    font-size: 12px;
+    color: #000;
+}
+.uap-post-content {
+    font-size: 16px;
+}
+a.uap-post-link {
+    background: #0a0a26;
+    color: #fff;
+    font-size: 12px;
+    padding: 10px 30px;
+}
+.recent-post-details-wrapper {
+    padding: 15px 25px;
+}
+.recent-post-entry .row {
+    width: 100%;
+    margin: auto;
+}
